@@ -1,0 +1,1 @@
+Para evitar erros de compilação, apenas rode o 'Calculadora.java'.
